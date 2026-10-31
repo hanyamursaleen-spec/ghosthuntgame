@@ -11,7 +11,7 @@ Objective: Move over the Ghosts to collect them and increase your score.
 
 Avoid the Enemies: Stay away from the Enemies! Touching them will end your game.
 
-Survive: As time progresses, the difficulty ramps up—enemies move faster and appear more frequently!
+Survive: As time goes on, the difficulty ramps up—enemies move faster and appear more often!
 
 Features
 
@@ -27,6 +27,7 @@ Designed for the Hack Club Ghostship initiative.
 
 Available on itch.io: https://hanyamursaleen.itch.io/ghosthunt
 
+OR: 
 Clone or download this repository.
 
 Open index.html in any web browser.
